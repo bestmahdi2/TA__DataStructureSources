@@ -46,7 +46,8 @@
 <div dir="ltr">
 
 1. [لینک منبع فارسی و فیلم آموزشی](1.Sources/Other-Sources.txt)
-2. [بقیه ی منابع](1.Sources/Sources.rar)
+2. [منابع اصلی استاد](1.Sources/Professor_Sources.zip)
+3. [بقیه ی منابع](1.Sources/Sources.rar)
 
 </div>
 
